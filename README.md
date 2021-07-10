@@ -3,7 +3,6 @@
 <div>
   <img src="img/expl.gif# alt="Explosion">
   <img src="img/expl.gif# alt="Explosion">
-  <img src="img/expl.gif# alt="Explosion">
 </div>
 
 
