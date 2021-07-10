@@ -2,10 +2,10 @@
 <img src="img/Moneda_muestra.gif# alt="Explosion"> Hola Mundo!<img src="img/Moneda_muestra.gif# alt="Explosion">
 </p>
 
-<div>
+<p align="center" width="100%">
   <img src="img/expl.gif# alt="Explosion">
   <img src="img/expl.gif# alt="Explosion">
-</div>
+</p>
 
 
 <div aling="center">
@@ -32,8 +32,8 @@
 </div>   
 
 
-<div>
+<p align="center" width="100%">
   <img src="img/expl.gif# alt="Explosion">
   <img src="img/expl.gif# alt="Explosion">
-</div>
+</p>
 
