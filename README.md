@@ -1,5 +1,5 @@
 ### Hi there 👋
 
 <div aling="center">
-    <img src="img/Guardatest.png" alt="Guarda">
+    <img src="img/Guardaanim.gif" alt="Guarda">
 </div>
