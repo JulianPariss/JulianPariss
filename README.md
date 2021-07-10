@@ -23,4 +23,6 @@
     <img src="img/Guardaanim2.gif# alt="Guarda">
 </div>                                               
 
-<img src="img/expl.gif# alt="Explosion">
+<div>
+  <img src="img/expl.gif# alt="Explosion">
+</div>
