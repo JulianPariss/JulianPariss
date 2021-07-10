@@ -1,5 +1,8 @@
--><div><img src="img/Moneda_muestra.gif# alt="Explosion">Hola Mundo!<img src="img/Moneda_muestra.gif# alt="Explosion"></div><-
+\begin{center}
 
+<div><img src="img/Moneda_muestra.gif# alt="Explosion">Hola Mundo!<img src="img/Moneda_muestra.gif# alt="Explosion"></div>
+
+\end{center}
 <div>
   <img src="img/expl.gif# alt="Explosion">
   <img src="img/expl.gif# alt="Explosion">
