@@ -6,7 +6,7 @@
 
 ## About me: 
 
-<p>Soy estudiante de informatica!</p>
+<p>Estudiante de informatica en la Universidad de La Plata (Argentina) y estudiante en Digital House en la carrera de Tech developer..</p>
 <div aling="center">
     <img src="img/Guardaanim2.gif# alt="Guarda">
 </div>
