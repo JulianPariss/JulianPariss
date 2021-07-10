@@ -19,7 +19,7 @@
     Tambien tengo una formacion profesional en artes plasticas que obtuve al egresar del Bachillerato de Bellas Artes.
 </p>
 <div aling="center">
-    <img src="img/Guardaanim2.gif# alt="Guarda">
+    <border-radius="10px" img src="img/Guardaanim2.gif# alt="Guarda">
 </div>
                                                
 ## Projects I work on :                                              
