@@ -1,4 +1,4 @@
-<div><img src="img/Moneda_muestra.gif# alt="Explosion"><h2> Hola Mundo!</h2><img src="img/Moneda_muestra.gif# alt="Explosion"></div>
+<div><img src="img/Moneda_muestra.gif# alt="Explosion">Hola Mundo!<img src="img/Moneda_muestra.gif# alt="Explosion"></div>
 
 <div>
   <img src="img/expl.gif# alt="Explosion">
