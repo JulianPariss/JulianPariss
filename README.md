@@ -18,7 +18,7 @@
     Estudiante de informatica en la Universidad de La Plata (Argentina) y estudiante en Digital House en la carrera de Tech developer.
     Tambien tengo una formacion profesional en artes plasticas que obtuve al egresar del Bachillerato de Bellas Artes.
 </p>
-<div border-radius="10px" aling="center">
+<div aling="center">
     <img src="img/Guardaanim2.gif# alt="Guarda">
 </div>
                                                
