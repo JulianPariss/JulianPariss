@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div aling="center">
-    <img src="img/Guardaanim.gif" alt="Guarda">
+    <img src="img/Guardaanim2.gif" alt="Guarda">
 </div>
 
 ### About me: 
