@@ -20,7 +20,7 @@
     <img src="img/Guardaanim2.gif# alt="Guarda">
 </div>
                                                
-## Projects i work on :                                              
+## Projects I work on :                                              
  
 <ol>                                               
  <li> <a href = "https://julianpariss.github.io/Frontend">Frontend Proyects</a> </li>
