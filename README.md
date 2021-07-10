@@ -1,4 +1,4 @@
-# Hola Mundo! 👋
+<div># Hola Mundo! <img src="img/moneda_muestra.gif# alt="Explosion"></div>
 
 <div>
   <img src="img/expl.gif# alt="Explosion">
