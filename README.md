@@ -22,3 +22,5 @@
 <div aling="center">
     <img src="img/Guardaanim2.gif# alt="Guarda">
 </div>                                               
+
+<img src="img/exp.gif# alt="Explosion">
