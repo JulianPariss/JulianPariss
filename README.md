@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-<div><img src="img/Moneda_muestra.gif# alt="Explosion">Hola Mundo!<img src="img/Moneda_muestra.gif# alt="Explosion"></div>
+<img src="img/Moneda_muestra.gif# alt="Explosion"> Hola Mundo!<img src="img/Moneda_muestra.gif# alt="Explosion">
 </p>
 
 <div>
