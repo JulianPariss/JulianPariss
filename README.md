@@ -1,5 +1,12 @@
 # Hola Mundo! 👋
 
+<div>
+  <img src="img/expl.gif# alt="Explosion">
+  <img src="img/expl.gif# alt="Explosion">
+  <img src="img/expl.gif# alt="Explosion">
+</div>
+
+
 <div aling="center">
     <img src="img/Guardaanim2.gif" alt="Guarda">
 </div>
@@ -23,6 +30,3 @@
     <img src="img/Guardaanim2.gif# alt="Guarda">
 </div>                                               
 
-<div>
-  <img src="img/expl.gif# alt="Explosion">
-</div>
