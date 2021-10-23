@@ -1,12 +1,12 @@
 <link href="style.css" rel="stylesheet"></link>
 
-<div aling="center">
+<div>
     <img src="img/Guardaanim2.gif" alt="Guarda">
 </div>
 
 
 
-<h2>About me:</h2>
+## About me:
 
   ### Formacion:
 <p> Estudiante de informática en la Universidad de La Plata (Argentina) y estudiante en Digital House en la carrera de Tech developer.
@@ -17,15 +17,16 @@
 <p> Soy un apasionado del desarrollo, me encanta dejar volar mi creatividad y utilizar la informática para materializar todo aquello 
     que se crea en mi mente, particularmente soy un fanático de los videojuegos y sobre todo de crearlos. </p>
     
-<div aling="center">
+<div>
     <img src="img/Guardaanim2.gif# alt="Guarda">
 </div>
                                                
-## Mis repositorios más trabajados:                                              
+## My best repos:                                              
  
-<ol>                                               
- <li> <a href = "https://julianpariss.github.io/Frontend">Frontend Proyects</a> </li>
-</ol>     
+<ul>                                               
+ <li> <a href = "https://github.com/JulianPariss/WebGames">Frontend Proyects</a> </li>
+ <li> <a href = "https://github.com/JulianPariss/WebPages">Frontend Proyects</a> </li>                                                         
+</ul>     
                                                          
 <div>
     <img src="img/Guardaanim2.gif# alt="Guarda">
