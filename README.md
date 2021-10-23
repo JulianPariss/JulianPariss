@@ -23,3 +23,8 @@
     <img src="img/Guardaanim2.gif# alt="Guarda">
 </div>   
 
+<style>
+    h2{
+    color: red;
+    }
+</style>
