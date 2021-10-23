@@ -17,9 +17,6 @@
 <p> Soy un apasionado del desarrollo, me encanta dejar volar mi creatividad y utilizar la informática para materializar todo aquello 
     que se crea en mi mente, particularmente soy un fanático de los videojuegos y sobre todo de crearlos. </p>
     
-    Considero que me gustan desafios para dia a dia avanzar mas y mas en este camino, son los que me impulsan a ver mas alla de la 
-    caja y encontrar nuevas posibilidades.
-    
 <div aling="center">
     <img src="img/Guardaanim2.gif# alt="Guarda">
 </div>
