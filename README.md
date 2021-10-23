@@ -1,3 +1,5 @@
+<link href="style.css" rel="stylesheet"></link>
+
 <div aling="center">
     <img src="img/Guardaanim2.gif" alt="Guarda">
 </div>
