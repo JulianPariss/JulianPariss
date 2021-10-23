@@ -1,13 +1,3 @@
-<p align="center" width="100%">
-<img src="img/Moneda_muestra.gif# alt="Explosion"> Hola Mundo!<img src="img/Moneda_muestra.gif# alt="Explosion">
-</p>
-
-<p align="center" width="100%">
-  <img src="img/expl.gif# alt="Explosion">
-  <img src="img/expl.gif# alt="Explosion">
-</p>
-
-
 <div aling="center">
     <img src="img/Guardaanim2.gif" alt="Guarda">
 </div>
@@ -30,10 +20,4 @@
 <div aling="center">
     <img src="img/Guardaanim2.gif# alt="Guarda">
 </div>   
-
-
-<p align="center" width="100%">
-  <img src="img/expl.gif# alt="Explosion">
-  <img src="img/expl.gif# alt="Explosion">
-</p>
 
