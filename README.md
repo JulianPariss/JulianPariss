@@ -1,8 +1,12 @@
+<link href="style.css" rel="stylesheet"></link>
+
 <div aling="center">
     <img src="img/Guardaanim2.gif" alt="Guarda">
 </div>
 
-## About me: 
+
+
+<h2>About me:</h2>  
 
 <p>
     Estudiante de informatica en la Universidad de La Plata (Argentina) y estudiante en Digital House en la carrera de Tech developer.
@@ -21,3 +25,8 @@
     <img src="img/Guardaanim2.gif# alt="Guarda">
 </div>   
 
+<style>
+    h2{
+    color: red;
+    }
+</style>
