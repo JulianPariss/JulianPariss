@@ -1,4 +1,4 @@
-<link href="style.css" rel="stylesheet"></link>
+# Julian Paris
 
 <div>
     <img src="img/Guardaanim2.gif" alt="Guarda">
@@ -21,14 +21,17 @@
     <img src="img/Guardaanim2.gif# alt="Guarda">
 </div>
                                                
-## My best repos:                                              
+## My lastest repos:                                              
  
-<ul>                                               
- <li> <a href = "https://github.com/JulianPariss/WebGames">WebGames Proyects</a> </li>
- <li> <a href = "https://github.com/JulianPariss/WebPages">WebPages Proyects</a> </li>                                                         
-</ul>     
+ * #### [WebGames Proyects](https://github.com/JulianPariss/WebGames)
+ * #### [WebPages Proyects](https://github.com/JulianPariss/WebPages)                                            
                                                          
 <div>
     <img src="img/Guardaanim2.gif# alt="Guarda">
 </div>   
 
+## Contact: 
+ * [Instagram](https://www.instagram.com/julian_pariss/)
+ * [Linkedin](https://www.linkedin.com/in/julian-paris-1ab483218/)
+ * Julian.Pariss@hotmail.com
+ * 2216357835
