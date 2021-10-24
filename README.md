@@ -12,6 +12,24 @@
 <p> Estudiante de informática en la Universidad de La Plata (Argentina) y estudiante en Digital House en la carrera de Tech developer.
     También tengo una formación profesional en artes plásticas que obtuve al egresar del Bachillerato de Bellas Artes. </p>
  
+  ### Lenguajes de programacion que controlo
+  * HTML
+  * CSS
+  * SASS
+  * JavaScript
+  * Java
+  ### FrameWorks utilizados:
+  * Phaser 3
+  * Boostrap
+  ### Algunas aplicaciones que utilizo con frecuencia:
+  * Figma
+  * Github (con bash)
+  * Visual Studio
+  * Discord (JulianPariss#0757)
+  ### Idiomas: 
+  * Español natal
+  * Ingles intermedio
+  * Portugues intermedio
     
   ### Lo que me gusta:  
 <p> Soy un apasionado del desarrollo, me encanta dejar volar mi creatividad y utilizar la informática para materializar todo aquello 
