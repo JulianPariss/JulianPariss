@@ -24,8 +24,8 @@
 ## My best repos:                                              
  
 <ul>                                               
- <li> <a href = "https://github.com/JulianPariss/WebGames">Frontend Proyects</a> </li>
- <li> <a href = "https://github.com/JulianPariss/WebPages">Frontend Proyects</a> </li>                                                         
+ <li> <a href = "https://github.com/JulianPariss/WebGames">WebGames Proyects</a> </li>
+ <li> <a href = "https://github.com/JulianPariss/WebPages">WebPages Proyects</a> </li>                                                         
 </ul>     
                                                          
 <div>
