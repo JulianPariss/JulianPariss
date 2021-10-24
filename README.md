@@ -24,7 +24,9 @@
 ## My lastest repos:                                              
  
  * #### [WebGames Proyects](https://github.com/JulianPariss/WebGames)
- * #### [WebPages Proyects](https://github.com/JulianPariss/WebPages)                                            
+   * Unos cuantos experimentos que me permitieron mejorar!                                             
+ * #### [WebPages Proyects](https://github.com/JulianPariss/WebPages)  
+   * Desde mis primeros proyectos hasta paginas completamente navegables                                             
                                                          
 <div>
     <img src="img/Guardaanim2.gif# alt="Guarda">
