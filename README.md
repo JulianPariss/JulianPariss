@@ -20,7 +20,7 @@
   * Java
   ### FrameWorks utilizados:
   * Phaser 3
-  * Boostrap
+  * Bootstrap
   ### Algunas aplicaciones que utilizo con frecuencia:
   * Figma
   * Github (con bash)
