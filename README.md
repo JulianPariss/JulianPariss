@@ -21,11 +21,13 @@
   ### FrameWorks utilizados:
   * Phaser 3
   * Bootstrap
+  * Jest
   ### Algunas aplicaciones que utilizo con frecuencia:
   * Figma
   * Github (con bash)
   * Visual Studio
   * Discord (JulianPariss#0757)
+  * Postman
   ### Idiomas: 
   * Español natal
   * Ingles intermedio
