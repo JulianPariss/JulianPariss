@@ -7,7 +7,6 @@
 
 
 ## About me:
-
   ### Formacion:
 <p> Estudiante de informática en la Universidad de La Plata (Argentina) y estudiante en Digital House en la carrera de Tech developer.
     También tengo una formación profesional en artes plásticas que obtuve al egresar del Bachillerato de Bellas Artes. </p>
