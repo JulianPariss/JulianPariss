@@ -27,6 +27,8 @@
   * Visual Studio
   * Discord (JulianPariss#0757)
   * Postman
+  * Blender
+  * Photoshop
   ### Idiomas: 
   * Español natal
   * Ingles intermedio
