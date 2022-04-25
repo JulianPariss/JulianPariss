@@ -19,16 +19,20 @@
   * Java
   ### FrameWorks utilizados:
   * Phaser 3
-  * Jest
   * Spring boot
+  * React 
+  * Godot (game engine)
   ### Algunas aplicaciones que utilizo con frecuencia:
   * Figma
-  * Github (con bash)
+  * Github 
   * Visual Studio
   * Discord (JulianPariss#0757)
   * Postman
   * Blender
   * Photoshop
+  * Tilesetter 
+  * Pyxel Edit
+  * Intellij
   ### Idiomas: 
   * Español natal
   * Ingles intermedio
@@ -36,7 +40,8 @@
     
   ### Lo que me gusta:  
 <p> Soy un apasionado del desarrollo, me encanta dejar volar mi creatividad y utilizar la informática para materializar todo aquello 
-    que se crea en mi mente, particularmente soy un fanático de los videojuegos y sobre todo de crearlos. </p>
+    que se crea en mi mente, particularmente soy un fanático de los videojuegos y sobre todo de crearlos. Considero que soy muy hábil para
+    aprender cosas nuevas y adaptarme a los cambios.</p>
     
 <div>
     <img src="img/Guardaanim2.gif# alt="Guarda">
