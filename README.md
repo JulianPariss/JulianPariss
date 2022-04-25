@@ -22,7 +22,7 @@
   * Spring boot
   * React 
   * Godot (game engine)
-  ### Algunas aplicaciones que utilizo con frecuencia:
+  ### Aplicaciones que utilizo:
   * Figma
   * Github 
   * Visual Studio
@@ -47,7 +47,7 @@
     <img src="img/Guardaanim2.gif# alt="Guarda">
 </div>
                                                
-## My lastest repos:                                              
+## Repositorios pertinentes:                                              
  
  * #### [WebGames Proyects](https://github.com/JulianPariss/WebGames)
    * Unos cuantos experimentos que me permitieron mejorar!                                             
@@ -58,8 +58,7 @@
     <img src="img/Guardaanim2.gif# alt="Guarda">
 </div>   
 
-## Contact: 
+## Contacto: 
  * [Instagram](https://www.instagram.com/julian_pariss/)
  * [Linkedin](https://www.linkedin.com/in/julian-paris-1ab483218/)
  * Julian.Pariss@hotmail.com
- * 2216357835
