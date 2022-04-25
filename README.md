@@ -40,8 +40,7 @@
     
   ### Lo que me gusta:  
 <p> Soy un apasionado del desarrollo, me encanta dejar volar mi creatividad y utilizar la informática para materializar todo aquello 
-    que se crea en mi mente, particularmente soy un fanático de los videojuegos y sobre todo de crearlos. Considero que soy muy hábil para
-    aprender cosas nuevas y adaptarme a los cambios.</p>
+    que se crea en mi mente, particularmente soy un fanático de los videojuegos y sobre todo de crearlos. Me concidero un autodidacta por lo que soy muy         hábil para aprender cosas nuevas y adaptarme a los cambios.</p>
     
 <div>
     <img src="img/Guardaanim2.gif# alt="Guarda">
