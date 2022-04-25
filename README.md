@@ -11,7 +11,7 @@
   * Egresado del Bachillerato de Bellas Artes, con formacion profesional de Animador Sociocultural Artistico Especializado en Artes Visuales (2012-2019).
   * Universidad nacional de la plata Facultad de Informatica 2do año (2020-2026)
   * Digital House Certified Tech Developer 2do año (2021-2023)
-  ### Lenguajes de programacion que controlo:
+  ### Lenguajes con los que trabajo:
   * HTML
   * CSS
   * SASS
