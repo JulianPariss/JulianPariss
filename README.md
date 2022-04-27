@@ -11,7 +11,7 @@
 
 ## Sobre mí:
   ### Objetivo:
-  * Quiero formar parte de una empresa internacional para crecer profesionalmente con las prácticas de los exitosos. 
+  * Quiero formar parte de una empresa internacional para crecer profesionalmente con las prácticas exitosas. 
   ### Formación:
   * Egresado del Bachillerato de Bellas Artes, con formación profesional de Animador Sociocultural Artistico Especializado en Artes Visuales (2012-2019).
   * Universidad nacional de La Plata Facultad de Informática 2do año (2020-2026)
