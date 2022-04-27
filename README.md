@@ -1,9 +1,6 @@
 # Julian Paris
 
-## Contacto: 
- * [Instagram](https://www.instagram.com/julian_pariss/)
- * [Linkedin](https://www.linkedin.com/in/julian-paris-1ab483218/)
- * Julian.Pariss@hotmail.com
+
 <div>
     <img src="img/Guardaanim2.gif" alt="Guarda">
 </div>
@@ -64,3 +61,8 @@
 <div>
     <img src="img/Guardaanim2.gif# alt="Guarda">
 </div>   
+
+## Contacto: 
+ * [Instagram](https://www.instagram.com/julian_pariss/)
+ * [Linkedin](https://www.linkedin.com/in/julian-paris-1ab483218/)
+ * Julian.Pariss@hotmail.com
