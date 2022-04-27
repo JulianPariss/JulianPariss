@@ -45,6 +45,7 @@
   * Pyxel Edit
   * Intellij
   ### Idiomas: 
+  * Español natal
   * Ingles intermedio
   * Portugues intermedio
     
