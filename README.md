@@ -28,6 +28,7 @@
   * SASS
   * JavaScript
   * Java
+  * MySql
   ### FrameWorks utilizados:
   * Phaser 3
   * Spring boot
@@ -63,7 +64,7 @@
    * Unos cuantos experimentos que me permitieron mejorar!                                             
  * #### [WebPages Proyects](https://github.com/JulianPariss/WebPages)  
    * Desde mis primeros proyectos hasta paginas completamente navegables                                             
- * ### Mi primer poryecto completo haciendo el Frontend y el Backend. Utilizando JWT para el consumo de la api...
+ * ### Mi primer proyecto completo haciendo el Frontend y el Backend. Utilizando JWT para el consumo de la api...
    * El Backend: [Github Back Repo](https://github.com/JulianPariss/api)
    * El Frontend: [GitHub Front Repo](https://github.com/JulianPariss/ClinicaOdontologica)                                        
 <div>
