@@ -1,12 +1,15 @@
 # Julian Paris
 
+## Contacto: 
+ * [Instagram](https://www.instagram.com/julian_pariss/)
+ * [Linkedin](https://www.linkedin.com/in/julian-paris-1ab483218/)
+ * Julian.Pariss@hotmail.com
 <div>
     <img src="img/Guardaanim2.gif" alt="Guarda">
 </div>
-
-
-
-## About me:
+## Sobre mi:
+  ### Objetivo:
+  * Quiero formar parte de una empresa internacional para crecer profesionalmente con las prácticas de los exitosos. 
   ### Formacion:
   * Egresado del Bachillerato de Bellas Artes, con formación profesional de Animador Sociocultural Artistico Especializado en Artes Visuales (2012-2019).
   * Universidad nacional de La Plata Facultad de Informática 2do año (2020-2026)
@@ -61,8 +64,3 @@
 <div>
     <img src="img/Guardaanim2.gif# alt="Guarda">
 </div>   
-
-## Contacto: 
- * [Instagram](https://www.instagram.com/julian_pariss/)
- * [Linkedin](https://www.linkedin.com/in/julian-paris-1ab483218/)
- * Julian.Pariss@hotmail.com
