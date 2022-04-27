@@ -9,8 +9,14 @@
 ## About me:
   ### Formacion:
   * Egresado del Bachillerato de Bellas Artes, con formación profesional de Animador Sociocultural Artistico Especializado en Artes Visuales (2012-2019).
-  * Universidad nacional de la plata Facultad de Informática 2do año (2020-2026)
+  * Universidad nacional de La Plata Facultad de Informática 2do año (2020-2026)
   * Digital House Certified Tech Developer 2do año (2021-2023)
+  ### Cursos: 
+  * Cursos de la Universidad de La Plata 
+    * Curso de extensión de la facultad de cine sobre desarrollo 3D.
+    * Curso de programacion en c++ como preparación para la compitición nacional.
+  * Cursos online
+    * Varios cursos en Udemy sobre desarrollo 3D y desarrollo de videojuegos.
   ### Lenguajes con los que trabajo:
   * HTML
   * CSS
