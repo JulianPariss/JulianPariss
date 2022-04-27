@@ -13,10 +13,10 @@
   * Digital House Certified Tech Developer 2do año (2021-2023)
   ### Cursos: 
   * Cursos de la Universidad de La Plata 
-    * Curso de extensión de la facultad de cine sobre desarrollo 3D.
-    * Curso de programacion en c++ como preparación para la compitición nacional.
+    * Curso de extensión de la facultad de cine sobre desarrollo 3D. (2016-2017)
+    * Curso de programacion en c++ como preparación para la compitición nacional. (2018-2019)
   * Cursos online
-    * Varios cursos en Udemy sobre desarrollo 3D y desarrollo de videojuegos.
+    * Varios cursos en Udemy sobre desarrollo 3D y desarrollo de videojuegos. (2015-2018)
   ### Lenguajes con los que trabajo:
   * HTML
   * CSS
