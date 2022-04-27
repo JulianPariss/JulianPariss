@@ -4,7 +4,8 @@
 <div>
     <img src="img/Guardaanim2.gif" alt="Guarda">
 </div>
-## Sobre mi:
+
+## About me:
   ### Objetivo:
   * Quiero formar parte de una empresa internacional para crecer profesionalmente con las prácticas de los exitosos. 
   ### Formacion:
