@@ -13,9 +13,9 @@
   ### Objetivo:
   * Quiero formar parte de una empresa internacional para crecer profesionalmente con las prácticas exitosas. 
   ### Formación:
+  * Certified Tech Developer - Digital House | 2do año (2021-2023)
+  * Licenciatura en informatica - Universidad nacional de La Plata Facultad de Informática | 2do año (2020-2026)
   * Egresado del Bachillerato de Bellas Artes, con formación profesional de Animador Sociocultural Artistico Especializado en Artes Visuales (2012-2019).
-  * Universidad nacional de La Plata Facultad de Informática 2do año (2020-2026)
-  * Digital House Certified Tech Developer 2do año (2021-2023)
   ### Cursos: 
   * Cursos de la Universidad de La Plata 
     * Curso de extensión de la facultad de cine sobre desarrollo 3D. (2016-2017)
