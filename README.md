@@ -60,10 +60,12 @@
                                                
 ## Repositorios pertinentes:                                              
  
+ * ### Mi proyecto destacado
+   * [DigitalBooking](https://github.com/JulianPariss/DigitalBooking)
  * #### [WebGames Proyects](https://github.com/JulianPariss/WebGames)
    * Unos cuantos experimentos que me permitieron mejorar!                                             
  * #### [WebPages Proyects](https://github.com/JulianPariss/WebPages)  
-   * Desde mis primeros proyectos hasta paginas completamente navegables                                             
+   * Desde mis primeros proyectos hasta paginas completamente navegables 
  * ### Mi primer proyecto completo haciendo el Frontend y el Backend. Utilizando JWT para el consumo de la api...
    * El Backend: [Github Back Repo](https://github.com/JulianPariss/api)
    * El Frontend: [GitHub Front Repo](https://github.com/JulianPariss/ClinicaOdontologica)                                        
