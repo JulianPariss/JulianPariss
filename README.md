@@ -60,7 +60,7 @@
                                                
 ## Repositorios pertinentes:                                              
  
- * ### Mi proyecto destacado
+ * ### Proyecto destacado
    * [DigitalBooking](https://github.com/JulianPariss/DigitalBooking)
  * #### [WebGames Proyects](https://github.com/JulianPariss/WebGames)
    * Unos cuantos experimentos que me permitieron mejorar!                                             
