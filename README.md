@@ -29,11 +29,18 @@
   * JavaScript
   * Java
   * MySql
+  * C++
+  * Python
   ### FrameWorks utilizados:
   * Phaser 3
   * Spring boot
-  * React 
+  * React
+  * Next
+  ### Motores de juegos:
   * Godot (game engine)
+  * Unreal Engine
+  * Game Maker
+  * Unity
   ### Aplicaciones que utilizo:
   * Figma
   * Github 
@@ -45,6 +52,7 @@
   * Tilesetter 
   * Pyxel Edit
   * Intellij
+  * Krita
   ### Idiomas: 
   * Español natal
   * Ingles intermedio
